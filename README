@@ -1,1 +1,3 @@
-A simple Morse Code parser for the Netduino. My "Hello, World" program for my new Netduino.
+A simple Morse Code encoder for the Netduino. My "Hello, World" program for my new Netduino.
+
+For a Morse Code decoder, see this blog post (not mine): http://g33k.blogspot.com/2010/10/morse-code-decoder-when-i-saw-this-post.html
